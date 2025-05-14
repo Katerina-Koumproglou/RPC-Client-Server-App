@@ -8,30 +8,30 @@ This project is an implementation of a simple RPC (Remote Procedure Call) Client
 
 The messages are in Greek and there are screenshots below showcasing the outputs.
 
-## Example of the 1st remote procedure
-From ask1_client.c:
+## Example: Procedure 1 — Average Calculation
+Client (ask1_client.c):
 ![image](https://github.com/user-attachments/assets/993a6097-bbf7-45f6-a56d-5115b4cd5d64)
 
 
-Response from ask1_server.c:
+Server (ask1_server.c):
 ![image](https://github.com/user-attachments/assets/676d0743-caa3-4994-8723-14ceeaf59a33)
 
-## Example of the 2st remote procedure
-From ask1_client.c:
+## Example: Procedure 2 — Min/Max Values
+Client (ask1_client.c):
 ![image](https://github.com/user-attachments/assets/b1be8bc0-202f-4bfe-a505-964796a91f65)
 
-Response from ask1_server.c:
+Server (ask1_server.c):
 ![image](https://github.com/user-attachments/assets/4c094aaa-8e8b-4dcc-aa80-dfea270adeb9)
 
 
-## Example of the 3st remote procedure
-From ask1_client.c:
+## Example: Procedure 3 — Multiply with Float
+Client (ask1_client.c):
 ![image](https://github.com/user-attachments/assets/f2158408-9376-42fc-b465-945f3b062569)
 
-Response from ask1_server.c:
+Server (ask1_server.c):
 ![image](https://github.com/user-attachments/assets/0da5e00c-ead5-458c-9052-06bd42039f10)
 
 
-## Example of the 4st remote procedure
-From ask1_client.c:
+## Example: Procedure 4 — Exit
+Client (ask1_client.c):
 ![image](https://github.com/user-attachments/assets/2e286a4d-1bf1-47a4-a06d-b4417f86eee1)
